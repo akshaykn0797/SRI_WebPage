@@ -1,3 +1,3 @@
-# AKN_WebPage
+# SRI_WEbpage
 
-Akshay K Nayak - About Me Webpage
+Sri - About Me Webpage
